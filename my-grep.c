@@ -39,7 +39,6 @@ int main(int argc, char *argv[]) {
             if (puskuri != NULL) {
                 free(puskuri);
             }
-            printf("\n");
             fclose(tiedosto);
         }
     }
